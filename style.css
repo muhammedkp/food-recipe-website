@@ -1,0 +1,349 @@
+nav{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    display: flex;
+   align-items: center;
+   position: sticky;
+   top: 0;
+   
+   padding: 3px;
+   
+    justify-content: 0
+    ;
+    
+}
+
+nav ul{
+    margin: 2px;
+    display:flex;
+  
+}
+
+/* section
+{
+    display: flex;
+width: 100%;
+height: 450px;
+
+
+} */
+
+#b
+{   display: flex;
+    /* background-image: url(https://r4.wallpaperflare.com/wallpaper/120/369/297/cuisine-food-india-indian-wallpaper-224cc96cfa8116803120874aa3297a9f.jpg);
+     */
+     background-image: url(https://r4.wallpaperflare.com/wallpaper/754/943/757/cuisine-food-india-indian-wallpaper-b0ce03617da167eeae584f0e93d738b3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+height: 530px;
+}
+
+#aaa {
+    margin: 10px; 
+    width: 200px;
+    height: 16px;
+    font-size: small;
+    display:flex;  
+    align-content: space-around;
+    align-items: center;
+}
+
+#aa {
+    margin: 150px;
+    width: 500px;
+align-items: center; 
+position: sticky;
+font-size: .5cm;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+display: flex;
+justify-content: space-evenly;
+color:  rgb(238, 238, 188);
+}
+#a
+{
+    width: 200px;
+    display: flex;
+    align-items: first baseline;
+    justify-content: first baseline;
+}
+
+nav ul li a{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    margin: 20px;
+    color: rgb(15, 15, 13);
+    font-size: larger;
+    font-style: oblique;
+    text-decoration: none;
+}
+
+#second
+{
+ display: flex;
+ justify-content: center;
+ align-content: center;
+ text-align: center;   
+ width: 400px;
+
+}
+
+#bb{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    margin: 30px;
+    color: rgb(247, 247, 245);
+    font-size: 61px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;;
+    font-style: oblique;
+    text-decoration: none;
+   
+}
+h1
+{
+    display: flex;
+    align-items: center;
+}
+
+#eat
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#fa9f1e;
+}
+#foods
+{
+    color: #212529;
+}
+#search
+{       color: #212529;
+        background-color: #fa9f1e;
+        padding: 13px 26px;
+        font-size: 15px;
+        line-height: 2px;
+        font-weight: bolder;
+        transition: 0.3s ease-in;
+        border-radius: var(--border-radius);
+        text-transform: capitalize;
+        font-weight: 400;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+}
+#box
+{
+    border: 1px solid;
+    font-weight: 30px ;
+    font-size: 17px;
+    width: 150px;
+    border-radius: 4px;
+    background: var(--bg-color);
+    padding: 5px 14px;
+    color: var(--font-color);
+}
+
+#sec2
+{   display: flex;
+    margin: 2px;
+    width: 100%;
+min-height: auto;
+
+
+justify-content: space-evenly;
+}
+
+#ab 
+{
+    display: flex;
+width:25% ;
+height: 100px; 
+align-items: center;
+justify-content: space-around;
+}
+
+
+#ac
+{
+    display: flex;
+    width: 25%; 
+    height: 100px; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#ad
+{
+    display: flex;
+    width: 25% ;
+    height: 100px;  
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#ae
+{
+    display: flex;
+    width: 25% ;
+    height: 100px; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+#div1{
+width: 100%;
+height: 450px;
+display: flex;
+align-items: center;
+margin: 30px;
+border:15px #fa9f1e solid;
+padding: 20px;
+justify-content: space-between;
+}
+
+#ab img{
+    width: 200px;
+    height: 300px;
+}
+
+#ac img{
+    width: 200px;
+    height: 300px;
+}
+
+#ad img{
+    width: 200px;
+    height: 300px;
+}
+
+#ae img{
+    width: 200px;
+    height: 300px;
+}
+#menu
+{
+    margin: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+   #h3{
+       display: flex;
+       justify-content: space-around;
+       align-items: end;
+
+    }
+
+
+#sec3
+
+    {   display: flex;
+        margin: 0px;
+        width: 100%;
+    min-height: auto;
+    }
+
+#sandwich
+{   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fa9f1e;
+}
+
+.s
+{
+display: flex;
+font-weight: 100;
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: justify;
+align-content: space-around;
+margin-top: 0;
+margin: 10px;
+
+}
+#sand
+{
+position: sticky;
+top: 60px;
+
+}
+
+#st
+{
+position: sticky;
+top: 60px;
+
+}
+#sec4
+
+    {   display: flex;
+        margin: 0px;
+        width: 100%;
+    min-height: auto;
+    }
+    #pa
+    {
+    position: sticky;
+    top: 60px;
+    }
+
+
+    #steak
+    {   
+        font-weight: 700;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #fa9f1e;
+    } 
+
+
+    #pasta
+{   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fa9f1e;
+}
+
+#a {
+    display: flex;
+    align-content: space-around ;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+}
+#foood
+{
+    width: 200px;
+}
+.footer
+{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(237, 231, 231);
+    display: flex;
+   align-items: center;
+   position: sticky;
+
+   
+   padding: 3px;
+   
+    justify-content: 0
+    ;
+
+}
+
+#foot1
+{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 100;
+margin: 100px;
+font-size: large;
+
+
+
+}
